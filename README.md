@@ -1,5 +1,3 @@
-Here's a template for your README file. You can customize it further based on your project's specific details and requirements.
-
 ---
 
 # Project Title
@@ -20,7 +18,7 @@ This project focuses on automating the data extraction process for company websi
 ## Technologies Used
 
 - Python (Requests, BeautifulSoup, Pandas)
-- Excel / Google Sheets (for formulas and conditional formatting)
+- Excel / PowerBi (for formulas and Report View)
 - Jupyter Notebook / IDE of choice
 
 ## Data Scraping
@@ -47,7 +45,8 @@ def scrape_website(url):
 
 The data is organized into a dashboard for easy visualization. The dashboard includes various metrics and categories, allowing users to quickly assess the relevance of companies based on extracted data.
 
-![Dashboard View](C:/Users/joshi/Pictures/Screenshots/Screenshot%202024-10-17%20014921.png)
+![Dashboard View] ![Screenshot 2024-10-17 014921](https://github.com/user-attachments/assets/b6da873a-613a-46eb-b99c-bc1c26c07dbb)
+
 
 ## Setup Instructions
 
@@ -80,5 +79,3 @@ The data is organized into a dashboard for easy visualization. The dashboard inc
 This project is licensed under the MIT License.
 
 ---
-
-Make sure to replace `path/to/your/dashboard_image.png` with the actual path to the image you want to include in your README file, and adjust any other sections to better fit your project specifics!
