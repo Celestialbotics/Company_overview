@@ -1,0 +1,40 @@
+Company,Website,Is_FNB,Is_Health_Related,Is_Manufacturer
+Nestle,https://www.nestle.com,FALSE,FALSE,FALSE
+Dr. Reddy's Laboratories,https://www.drreddys.com,FALSE,FALSE,FALSE
+Coca Cola,https://www.coca-colacompany.com,TRUE,FALSE,FALSE
+Pfizer,https://www.pfizer.com,FALSE,FALSE,FALSE
+PepsiCo,https://www.pepsico.com,TRUE,TRUE,TRUE
+Johnson & Johnson,https://www.jnj.com,FALSE,FALSE,FALSE
+Danone,https://www.danone.com,TRUE,TRUE,TRUE
+Bayer,https://www.bayer.com,FALSE,FALSE,FALSE
+General Mills,https://www.generalmills.com,TRUE,TRUE,FALSE
+GlaxoSmithKline (GSK),https://www.gsk.com,FALSE,FALSE,FALSE
+Merck & Co.,https://www.merck.com,FALSE,FALSE,FALSE
+Unilever,https://www.unilever.com,FALSE,TRUE,FALSE
+Roche,https://www.roche.com,FALSE,TRUE,FALSE
+Nestle Waters,https://www.nestlewaters.com,FALSE,FALSE,FALSE
+Sanofi,https://www.sanofi.com,FALSE,TRUE,TRUE
+Mondelez International,https://www.mondelezinternational.com,TRUE,TRUE,FALSE
+Novartis,https://www.novartis.com,FALSE,FALSE,FALSE
+Kraft Heinz,https://www.kraftheinzcompany.com,TRUE,TRUE,FALSE
+Eli Lilly and Company,https://www.lilly.com,FALSE,FALSE,FALSE
+Tyson Foods,https://www.tysonfoods.com,TRUE,FALSE,TRUE
+Teva Pharmaceuticals,https://www.tevapharm.com,FALSE,FALSE,FALSE
+"Mars, Incorporated",https://www.mars.com,TRUE,TRUE,FALSE
+AbbVie,https://www.abbvie.com,FALSE,FALSE,FALSE
+Campbell Soup Company,https://www.campbellsoupcompany.com,TRUE,TRUE,FALSE
+Amgen,https://www.amgen.com,FALSE,FALSE,FALSE
+Conagra Brands,https://www.conagrabrands.com,FALSE,FALSE,FALSE
+AstraZeneca,https://www.astrazeneca.com,FALSE,FALSE,FALSE
+Molson Coors,https://www.molsoncoors.com,TRUE,TRUE,FALSE
+Boehringer Ingelheim,https://www.boehringeringelheim.com,FALSE,FALSE,FALSE
+AB InBev,https://www.abinbev.com,FALSE,FALSE,FALSE
+BASF,https://www.basf.com,FALSE,TRUE,FALSE
+Diageo,https://www.diageo.com,TRUE,FALSE,FALSE
+Procter & Gamble (P&G),https://www.pg.com,FALSE,TRUE,FALSE
+Heineken,https://www.theheinekencompany.com,FALSE,FALSE,FALSE
+Medtronic,https://www.medtronic.com,FALSE,TRUE,FALSE
+McKesson,https://www.mckesson.com,FALSE,FALSE,FALSE
+AmerisourceBergen,https://www.amerisourcebergen.com,FALSE,FALSE,FALSE
+Cardinal Health,https://www.cardinalhealth.com,TRUE,TRUE,TRUE
+Medline Industries,https://www.medline.com,FALSE,FALSE,FALSE
